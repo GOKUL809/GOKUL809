@@ -1,7 +1,5 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0a0a0a&amp;height=210&amp;section=header&amp;text=GOKUL%20S&amp;fontSize=42&amp;fontAlignY=40&amp;desc=ROBOTICS%20%26%20AUTOMATION%20ENGINEER%20%7C%20EMBEDDED%20%26%20IOT&amp;descFontSize=15&amp;descAlignY=62&amp;fontColor=ffffff&amp;stroke=EF4444&amp;strokeWidth=2" width="100%" alt="Gokul S Header" />
-</p>
+\<p align="center"> \<img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" /> \</ p>
 
 <!-- TYPING SUB-BANNER -->
 <p align="center">
