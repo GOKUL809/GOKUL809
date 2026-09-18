@@ -1,5 +1,5 @@
 <!-- BANNER -->
-\<p align="center"> \<img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" /> \</ p>
+<p align="center"> \<img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" /> \</ p>
 
 <!-- TYPING SUB-BANNER -->
 <p align="center">
